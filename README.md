@@ -1,2 +1,2 @@
-# This is a practise of Unity2d 
+#  Unity2d のシューティングゲーム　の練習です。
 
